@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#  2-show_your_bash_pid: Displays lines containing the bash word,
+
+ps axuf | grep bash
